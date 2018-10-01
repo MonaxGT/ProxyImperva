@@ -20,17 +20,18 @@ docker run -d -p 8080:8080 proxyimperva
 ```
 
 Details:
-
-# Exploit Title: Policy Bypass on Imperva SecureSphere Web Application
+```
+Exploit Title: Policy Bypass on Imperva SecureSphere Web Application
 Firewall
-# Date: 08/05/2018
-# Author: Damien Cabrié
-# Contact: https://twitter.com/nawhack
-# Vendor Homepage: http://www.imperva.com
-# Version: Imperva SecureSphere WAF 11.5 in all deployment options
-# Tested on: Imperva SecureSphere WAF 11.5.0.95_0 (bridge and reverse proxy
+Date: 08/05/2018
+Author: Damien Cabrié
+Contact: https://twitter.com/nawhack
+Vendor Homepage: http://www.imperva.com
+Version: Imperva SecureSphere WAF 11.5 in all deployment options
+Tested on: Imperva SecureSphere WAF 11.5.0.95_0 (bridge and reverse proxy
 mode)
-# Class: Policy Bypass
+Class: Policy Bypass
+```
 
 [VULNERABILITY DETAILS]
 
