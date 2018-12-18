@@ -1,6 +1,8 @@
 Proxy for Policy bypass on Imperva WAF
 =======================
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/f821affc94304b018f556ebd856e8404)](https://app.codacy.com/app/MonaxGT/ProxyImperva?utm_source=github.com&utm_medium=referral&utm_content=MonaxGT/ProxyImperva&utm_campaign=Badge_Grade_Dashboard)
+
 Proxy with removing header Content-Type.
 
 Run:
